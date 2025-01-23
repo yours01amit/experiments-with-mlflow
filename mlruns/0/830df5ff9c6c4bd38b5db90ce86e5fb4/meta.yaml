@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/830df5ff9c6c4bd38b5db90ce86e5fb4/artifacts
+end_time: 1737616677102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 830df5ff9c6c4bd38b5db90ce86e5fb4
+run_name: dashing-foal-334
+run_uuid: 830df5ff9c6c4bd38b5db90ce86e5fb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737616676928
+status: 3
+tags: []
+user_id: Acer

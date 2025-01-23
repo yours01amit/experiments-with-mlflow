@@ -1,0 +1,10 @@
+digest: 9fe4803b
+name: dataset
+profile: '{"features_shape": [158, 13], "features_size": 2054, "features_nbytes":
+  16432, "targets_shape": [158], "targets_size": 158, "targets_nbytes": 1264}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 13]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "Acer", "mlflow.source.name": "src/autolog.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "393209777b8b455f9b88919a8da15be0b326c6ce"}}'
+source_type: code

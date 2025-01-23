@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/156763320872063242/df29fd66be9a435ab3ddffe6ab397fb7/artifacts
+end_time: 1737619414849
+entry_point_name: ''
+experiment_id: '156763320872063242'
+lifecycle_stage: active
+run_id: df29fd66be9a435ab3ddffe6ab397fb7
+run_name: receptive-stag-716
+run_uuid: df29fd66be9a435ab3ddffe6ab397fb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737619413348
+status: 3
+tags: []
+user_id: Acer

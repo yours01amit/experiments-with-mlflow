@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2f285ddbfc6143dd9330b8f577e9456f/artifacts
+end_time: 1737616900502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f285ddbfc6143dd9330b8f577e9456f
+run_name: flawless-chimp-262
+run_uuid: 2f285ddbfc6143dd9330b8f577e9456f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737616900217
+status: 3
+tags: []
+user_id: Acer
